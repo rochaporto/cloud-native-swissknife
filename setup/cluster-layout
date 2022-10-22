@@ -1,0 +1,11 @@
+kna-010,1.24.5-gke.600,europe-west4,e2-standard-4,1,--no-enable-autorepair --no-enable-autoupgrade --enable-image-streaming
+kna-gitops-001,1.24.5-gke.600,europe-west1,e2-standard-4,1,--no-enable-autorepair --no-enable-autoupgrade --enable-image-streaming
+kna-gitops-002,1.24.5-gke.600,europe-west2,e2-standard-4,1,--no-enable-autorepair --no-enable-autoupgrade --enable-image-streaming
+kna-gitops-003,1.24.5-gke.600,europe-west3,e2-standard-4,1,--no-enable-autorepair --no-enable-autoupgrade --enable-image-streaming
+kna-gitops-004,1.24.5-gke.600,europe-west4,e2-standard-4,1,--no-enable-autorepair --no-enable-autoupgrade --enable-image-streaming
+kna-gitops-005,1.24.5-gke.600,europe-west6,e2-standard-4,1,--no-enable-autorepair --no-enable-autoupgrade --enable-image-streaming
+kna-gitops-006,1.24.5-gke.600,europe-west8,e2-standard-4,1,--no-enable-autorepair --no-enable-autoupgrade --enable-image-streaming
+kna-gitops-007,1.24.5-gke.600,europe-west9,e2-standard-4,1,--no-enable-autorepair --no-enable-autoupgrade --enable-image-streaming
+kna-gitops-008,1.24.5-gke.600,us-central1,e2-standard-4,1,--no-enable-autorepair --no-enable-autoupgrade --enable-image-streaming
+kna-gitops-009,1.24.5-gke.600,us-east1,e2-standard-4,1,--no-enable-autorepair --no-enable-autoupgrade --enable-image-streaming
+kna-gitops-010,1.24.5-gke.600,us-west1,e2-standard-4,1,--no-enable-autorepair --no-enable-autoupgrade --enable-image-streaming
